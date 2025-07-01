@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/python_project-D14836?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 </p>
+<br>
+<br>
+<br>
 
 ## 1. 인기 점수와 실력 점수 간의 관계
 
