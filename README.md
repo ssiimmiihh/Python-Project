@@ -8,7 +8,7 @@
 	
 <p align="center">
   <a href="https://twilight-morocco-795.notion.site/1c25cc7bb1dc80de99d8eb4a5bb995d3?source=copy_link"target="_blank">
-    <img src="https://img.shields.io/badge/python_project-D14836?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python_project-2986cc?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 </p>
 <br>
