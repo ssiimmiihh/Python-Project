@@ -5,6 +5,12 @@
 
 <div style="display: flex; justify-content: space-between;">
 <div style="width: 48%;">
+	
+<p align="center">
+  <a href="https://twilight-morocco-795.notion.site/1c25cc7bb1dc80de99d8eb4a5bb995d3?source=copy_link"target="_blank">
+    <img src="https://img.shields.io/badge/python_project-D14836?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+</p>
 
 ## 1. 인기 점수와 실력 점수 간의 관계
 
@@ -25,7 +31,7 @@ https://twilight-morocco-795.notion.site/1c25cc7bb1dc80de99d8eb4a5bb995d3?source
 
 ## 2. 토트넘 경기 부진 원인 분석
 
-![프로젝트 이미지2](correlation.png)
+![프로젝트 이미지2](boxplot.png)
 </div>
 <div style="width: 48%;">
 
